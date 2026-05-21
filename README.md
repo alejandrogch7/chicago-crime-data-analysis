@@ -30,6 +30,15 @@ The analysis explores potential relationships between:
 - Can school engagement metrics such as parent involvement and student attendance provide insight into broader community conditions?
 - What socioeconomic patterns can be identified by integrating census, crime and educational datasets?
 
+### Education vs Hardship Index
+![Education vs Hardship](/education_vs_hardship.png)
+
+## Most Common Crimes in High-Hardship Communities
+![High Hardship Crimes](/high_hardship_crimes.png)
+
+## Parent Engagement, Student Attendance and Crime Levels
+![Parent Engagement Analysis](/school_analysis.png)
+
 ### Key Insights
 - Communities with lower educational attainment generally exhibited higher hardship indexes and higher percentages of households living below the poverty line, suggesting a strong relationship between education and broader socioeconomic conditions.
 - High-hardship communities showed elevated concentrations of crimes such as battery, narcotics-related offenses and theft, indicating that economically vulnerable areas may experience distinct crime patterns compared to other parts of the city.
